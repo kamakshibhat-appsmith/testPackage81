@@ -1,0 +1,26 @@
+{
+  "packageUUID": "660ebc6ca9d34540607b541e",
+  "moduleUUID": "660ebc6ca9d34540607b5420",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.4",
+    "name": "Query1",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {},
+    "moduleInputs": {},
+    "jsonPathKeys": [],
+    "isValid": false,
+    "invalids": [
+      "Module instance does not have a valid module reference in the workspace. Please import package \"Untitled Package 1\" to your current workspace to resolve this issue."
+    ],
+    "invalidState": {
+      "packageName": "Untitled Package 1",
+      "moduleName": "Query1Module"
+    },
+    "userPermissions": []
+  },
+  "id": "Page1_Query1",
+  "deleted": false,
+  "gitSyncId": "660ebc5ea9d34540607b5405_660ebc6da9d34540607b542b"
+}
