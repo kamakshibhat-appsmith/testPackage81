@@ -1,26 +1,15 @@
 {
-  "packageUUID": "660ebc73a9d34540607b5432",
+  "gitSyncId": "660ebc5ea9d34540607b5405_660ebc74a9d34540607b543f",
+  "id": "Page1_Query2",
   "moduleUUID": "660ebc73a9d34540607b5434",
+  "packageUUID": "660ebc73a9d34540607b5432",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.3",
-    "name": "Query2",
     "contextType": "PAGE",
-    "pageId": "Page1",
     "inputs": {},
     "moduleInputs": {},
-    "jsonPathKeys": [],
-    "isValid": false,
-    "invalids": [
-      "Module instance does not have a valid module reference in the workspace. Please import package \"Untitled Package 2\" to your current workspace to resolve this issue."
-    ],
-    "invalidState": {
-      "packageName": "Untitled Package 2",
-      "moduleName": "Query2Module"
-    },
-    "userPermissions": []
-  },
-  "id": "Page1_Query2",
-  "deleted": false,
-  "gitSyncId": "660ebc5ea9d34540607b5405_660ebc74a9d34540607b543f"
+    "name": "Query2",
+    "pageId": "Page1",
+    "version": "0.0.3"
+  }
 }

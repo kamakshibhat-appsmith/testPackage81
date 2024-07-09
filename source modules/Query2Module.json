@@ -1,7 +1,7 @@
 {
-  "packageUUID": "660ebc73a9d34540607b5432",
-  "packageName": "Untitled Package 2",
-  "moduleUUID": "660ebc73a9d34540607b5434",
   "moduleName": "Query2Module",
+  "moduleUUID": "660ebc73a9d34540607b5434",
+  "packageName": "Untitled Package 2",
+  "packageUUID": "660ebc73a9d34540607b5432",
   "version": "0.0.3"
 }
